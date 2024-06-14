@@ -7,4 +7,4 @@ router.get('/users/:id/progress', authenticateToken, getProgress);
 router.post('/users/:id/progress', authenticateToken, updateProgress);
 
 module.exports = router;
- 
+  

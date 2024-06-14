@@ -24,3 +24,4 @@ const deleteCourse = async (courseId) => {
 };
 
 module.exports = { getAllCourses, getCourseById, createCourse, updateCourse, deleteCourse };
+ 

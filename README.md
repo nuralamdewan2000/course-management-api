@@ -76,7 +76,7 @@ This project is a RESTful API for a Course Management System within a Learning M
    npm start
    ```
 
-5. Your server should be running on [http://localhost:3000](http://localhost:3000)
+5. Your server should be running on [http://localhost:3000](http://localhost:3000) 
 
 ## Environment Variables
 

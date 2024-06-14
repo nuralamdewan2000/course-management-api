@@ -10,3 +10,4 @@ const updateUserProgress = async (userId, courseId, lessonId, status) => {
 };
 
 module.exports = { getUserProgress, updateUserProgress };
+ 

@@ -14,3 +14,4 @@ const updateProgress = async (req, res) => {
 };
 
 module.exports = { getProgress, updateProgress };
+ 

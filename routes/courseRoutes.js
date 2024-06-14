@@ -10,3 +10,4 @@ router.put('/courses/:id', authenticateToken, authorizeRoles('teacher'), update)
 router.delete('/courses/:id', authenticateToken, authorizeRoles('teacher'), remove);
 
 module.exports = router;
+ 

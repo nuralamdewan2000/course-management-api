@@ -33,3 +33,4 @@ const remove = async (req, res) => {
 };
 
 module.exports = { getCourses, getCourse, create, update, remove };
+ 
